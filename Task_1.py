@@ -1,4 +1,4 @@
-file_path = r'\Users\admin\Desktop\HW_Python_8\HW_Phy_8.txt'
+file_path = r'\HW_Phy_8.txt'
 
 
 def add_number():
@@ -47,4 +47,7 @@ while True:
     else:
         print('Некорректный ввод')
     print()
-    print()    
+    print()
+
+
+
